@@ -45,8 +45,7 @@ image{
   text-decoration: none;
   cursor: pointer;
   border-radius: 20px;
-  margin-bottom: 35px;
-  margin: 0 auto;
+  margin: 0 auto 35px;
 }
 
 .btn-orange{

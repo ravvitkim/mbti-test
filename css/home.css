@@ -7,7 +7,7 @@ body{
 
 .character{
   width: 100%;
-  min-width: 360px;
+  max-width: 360px;
   margin: 0 auto 40px;
-  /* display: block; */
+  display: block;
 }
