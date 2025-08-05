@@ -4,3 +4,10 @@ body{
   background-position: top center;
   background-repeat: no-repeat;
 }
+
+.character{
+  width: 100%;
+  min-width: 360px;
+  margin: 0 auto 40px;
+  /* display: block; */
+}
