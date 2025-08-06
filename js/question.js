@@ -21,6 +21,7 @@ let mbti = '';
 
 
 //choice1EL과 choiceEL2에 클릭 이벤트를 걸어놓는다.
+//콜백함수 : 앞에서 정의한 조건이 만족될 때 실행되는 함수
 choice1El.addEventListener('click', function(){
  nextQuestion(0);
 })
